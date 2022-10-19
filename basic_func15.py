@@ -2,5 +2,5 @@
 # Create function arguments a and b.
 # Return the modulus of a and b.
 def main(a,b):
-    return a,b
-print(abs(-8), abs(3))
+    return abs(a),abs(b)
+print((-8), (3))
