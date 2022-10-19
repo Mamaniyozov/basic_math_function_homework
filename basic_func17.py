@@ -3,5 +3,6 @@
 # Assign the value pi to the variable "a" and return.
 from cmath import pi
 def main(a):
+    a=pi
     return a
 print(main(pi))
