@@ -2,5 +2,5 @@
 # Create function arguments a and b.
 # Returns the floor division of a and b.
 def main(a,b):
-    return int (b/a)
+    return  (b//a)
 print(main(3,5))
